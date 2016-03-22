@@ -1,8 +1,6 @@
 ---
 layout: post
-published: true
 title: Back to Basics
-description: Check back regualry, I am going to start writting more posts here very soon.
 ---
 ![](http://res.cloudinary.com/dfap1jqjc/image/upload/v1458449107/image-6_swkuva.jpg)
 
